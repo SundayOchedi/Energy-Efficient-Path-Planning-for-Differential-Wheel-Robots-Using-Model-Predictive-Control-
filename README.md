@@ -1,1 +1,1 @@
-# Energy-Efficient-Path-Planning-for-Differential-Wheel-Robots-Using-Model-Predictive-Control-
+Development and implementation of a path planning and obstacle avoidance strategy for differential wheel robots. Utilizing the A* algorithm for path-planning and Model Predictive Control (MPC) for trajectory tracking and energy optimization. 
